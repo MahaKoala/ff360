@@ -1,0 +1,11 @@
+#!/bin/bash
+
+api_key="Ysk-svcacct-WKZLW7PzN-2X16W50LFAiH6BqdN6XAwv2Lxg3nuoozQqyYF3pEpEAgLNQfHqo9h215werT3BlbkFJTwrkg2UvBfkTqjfJE0SzPyC0C7lZEN9G4giikVSkg2Kco4s5J6TMH7sm0gJEkj6aC7LCAA
+"
+question="What version of ChatGPT or AI am I connected to?"
+
+curl -X POST \
+  https://api.openai.com/v1/completions \
+  -H 'Authorization: Bearer '$api_key'' \
+  -H 'Content-Type: application/json' \
+  -d '{"model": "text-davinci-003", "prompt": "'$question'"}'
