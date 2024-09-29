@@ -1,13 +1,13 @@
 **For ITAAG Group**
 
-We are pleased to offer our services to ITAAG Group through BIXBEE Media, managed by Tony & Mo. Our team is committed 
+We are pleased to offer our services to ITAAG Group through the BIXBEE Media Partnership, managed by Tony & Mo. Our team is committed 
 to delivering high-quality work services tailored to your business needs.
 
 **Service Offerings:**
 
 1. **Digital Marketing & Social Media Management**
 	* Utilize Google, Facebook, Instagram, and X (formerly Twitter) ads for platform preparation ahead of tax season
-	* Services will be provided by Tony and coordinated through BIXBEE Media
+	* Services will be provided by Tony and his BIXBEE Media Team
 2. **General VA Services**
 	* Offer 8am-6pm daily support and Jira board management with operation workflow support
 	* Mid-tier pricing: $650/monthly (available Monday to Friday, 8am-6pm)
